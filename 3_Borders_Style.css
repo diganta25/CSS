@@ -1,0 +1,18 @@
+h1{
+    padding: 10px;
+    border-top-style:ridge;
+    border-bottom-style: ridge;
+    border-left-style: double;
+    border-left-width: 10px;
+    border-right-style: double;
+    border-right-width: 10px;
+    border-color: darkblue;
+}
+
+p{
+    border-style: ridge;
+    border-width: 5px;
+    border-color:gold;
+    border-radius: 10px;
+    padding: 5px;
+}

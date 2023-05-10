@@ -1,0 +1,20 @@
+body{
+  background-image: url(cherry_blossom.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+h1{
+    color: white;
+    background: linear-gradient(to right,#D762D9, #F2D4C9);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+p{
+    color: white;
+    background: linear-gradient(to left,#D762D9, #F2D4C9);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
